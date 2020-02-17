@@ -1,6 +1,6 @@
 # file uploader task android
 
-Kotlin is chosen because client's requirements
+Language - Kotlin
 
 Libraries that are used in the project:
 1. Dagger2 - dependency injection
